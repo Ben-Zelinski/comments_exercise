@@ -333,5 +333,37 @@
         "postedAt": 1550415023853
       }
     ]
+  },
+  {
+    "author": "bz",
+    "body": "new test\n",
+    "id": "00ba6b80-7d31-4469-8bfb-10be04e455b4",
+    "postedAt": 1601564644686,
+    "replies_count": 0,
+    "replies": []
+  },
+  {
+    "author": "bz",
+    "body": "test new comment\n",
+    "id": "8f21d6ec-f146-476b-83e1-828bc26f3838",
+    "postedAt": 1601566910887,
+    "replies_count": 0,
+    "replies": []
+  },
+  {
+    "author": "bz",
+    "body": "test with replies open",
+    "id": "c847f7f3-80a4-438f-a64a-c13487cffc0b",
+    "postedAt": 1601567271666,
+    "replies_count": 0,
+    "replies": []
+  },
+  {
+    "author": "bz",
+    "body": "afsg",
+    "id": "5a9d9eb5-b8cd-40b0-9fe9-f6079bc684a9",
+    "postedAt": 1601567974429,
+    "replies_count": 0,
+    "replies": []
   }
 ]
